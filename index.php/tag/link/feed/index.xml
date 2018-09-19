@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>link | Dessi Cuppa Bangalore</title>
+	<atom:link href="/index.php/tag/link/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The Juice Hub of India</description>
+	<lastBuildDate>Wed, 22 Nov 2017 12:16:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>AWESOME WORDPRESS THEMES</title>
+		<link>/index.php/2013/11/05/post-format-link/</link>
+		<comments>/index.php/2013/11/05/post-format-link/#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 08:06:53 +0000</pubDate>
+		<dc:creator><![CDATA[wakrncse]]></dc:creator>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[link]]></category>
+
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<description><![CDATA[Premium WordPress Themes powered by UNITED THEMES Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a title="Premium WordPress Themes" href="http://unitedthemes.com/">Premium WordPress Themes powered by UNITED THEMES</a></p>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p><span id="more-565"></span></p>
+<div class="brookly-hatom-data" style="display:none;visibility:hidden;"><span class="entry-title">AWESOME WORDPRESS THEMES</span><span class="updated"> November 5th, 2013</span><span class="author vcard"><span class="fn">wakrncse</span></span></div>]]></content:encoded>
+			<wfw:commentRss>/index.php/2013/11/05/post-format-link/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

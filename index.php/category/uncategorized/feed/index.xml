@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized | Dessi Cuppa Bangalore</title>
+	<atom:link href="/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The Juice Hub of India</description>
+	<lastBuildDate>Wed, 22 Nov 2017 12:16:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/index.php/2017/11/01/hello-world/</link>
+		<comments>/index.php/2017/11/01/hello-world/#comments</comments>
+		<pubDate>Wed, 01 Nov 2017 16:37:32 +0000</pubDate>
+		<dc:creator><![CDATA[wakrncse]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing! Hello world! November 1st, 2017wakrncse]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<div class="brookly-hatom-data" style="display:none;visibility:hidden;"><span class="entry-title">Hello world!</span><span class="updated"> November 1st, 2017</span><span class="author vcard"><span class="fn">wakrncse</span></span></div>]]></content:encoded>
+			<wfw:commentRss>/index.php/2017/11/01/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Standard Blog Post With All The Trimmings</title>
+		<link>/index.php/2013/11/09/standard-blog-post-with-all-the-trimmings/</link>
+		<comments>/index.php/2013/11/09/standard-blog-post-with-all-the-trimmings/#comments</comments>
+		<pubDate>Sat, 09 Nov 2013 10:38:23 +0000</pubDate>
+		<dc:creator><![CDATA[wakrncse]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=1</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p><span id="more-2688"></span></p>
+<blockquote><p>Passion leads to design, design leads to performance, performance leads to success!<br />
+<cite>United Themes – Theme Development Brooklyn</cite></p></blockquote>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<h1>A Large Sub-Heading</h1>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="#">At vero eos et accusam</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est<em> Lorem ipsum dolor</em> sit amet.</p>
+<h3>A Smaller Sub-Heading</h3>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <strong><span style="text-decoration: underline;">At vero</span></strong> eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <a href="#">Lorem ipsum</a> dolor sit amet.</p>
+<pre>.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+}</pre>
+<ul>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+<li>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod <strong>tempor invidunt ut labore</strong> et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo <del>dolores et ea rebum</del>. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<div class="brookly-hatom-data" style="display:none;visibility:hidden;"><span class="entry-title">Standard Blog Post With All The Trimmings</span><span class="updated"> November 9th, 2013</span><span class="author vcard"><span class="fn">wakrncse</span></span></div>]]></content:encoded>
+			<wfw:commentRss>/index.php/2013/11/09/standard-blog-post-with-all-the-trimmings/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Bklyn Special Burger</title>
+		<link>/index.php/2013/11/08/bklyn-special-burger/</link>
+		<comments>/index.php/2013/11/08/bklyn-special-burger/#respond</comments>
+		<pubDate>Fri, 08 Nov 2013 03:20:47 +0000</pubDate>
+		<dc:creator><![CDATA[wakrncse]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2442</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p><span id="more-2442"></span></p>
+<blockquote><p>Passion leads to design, design leads to performance, performance leads to success!<br />
+<cite>United Themes – Theme Development Brooklyn</cite></p></blockquote>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<h1>A Large Sub-Heading</h1>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="#">At vero eos et accusam</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est<em> Lorem ipsum dolor</em> sit amet.</p>
+<h3>A Smaller Sub-Heading</h3>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <strong><span style="text-decoration: underline;">At vero</span></strong> eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <a href="#">Lorem ipsum</a> dolor sit amet.</p>
+<pre>.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+}</pre>
+<ul>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+<li>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod <strong>tempor invidunt ut labore</strong> et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo <del>dolores et ea rebum</del>. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<div class="brookly-hatom-data" style="display:none;visibility:hidden;"><span class="entry-title">Bklyn Special Burger</span><span class="updated"> November 8th, 2013</span><span class="author vcard"><span class="fn">wakrncse</span></span></div>]]></content:encoded>
+			<wfw:commentRss>/index.php/2013/11/08/bklyn-special-burger/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Standard Post without Image</title>
+		<link>/index.php/2013/11/05/post-without-image/</link>
+		<comments>/index.php/2013/11/05/post-without-image/#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 05:58:53 +0000</pubDate>
+		<dc:creator><![CDATA[wakrncse]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2484</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p><span id="more-2484"></span></p>
+<blockquote><p>Passion leads to design, design leads to performance, performance leads to success!<br />
+<cite>United Themes – Theme Development Brooklyn</cite></p></blockquote>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<h1>A Large Sub-Heading</h1>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="#">At vero eos et accusam</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est<em> Lorem ipsum dolor</em> sit amet.</p>
+<h3>A Smaller Sub-Heading</h3>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <strong><span style="text-decoration: underline;">At vero</span></strong> eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <a href="#">Lorem ipsum</a> dolor sit amet.</p>
+<pre>.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+}</pre>
+<ul>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+<li>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod <strong>tempor invidunt ut labore</strong> et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo <del>dolores et ea rebum</del>. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<div class="brookly-hatom-data" style="display:none;visibility:hidden;"><span class="entry-title">Standard Post without Image</span><span class="updated"> November 5th, 2013</span><span class="author vcard"><span class="fn">wakrncse</span></span></div>]]></content:encoded>
+			<wfw:commentRss>/index.php/2013/11/05/post-without-image/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
